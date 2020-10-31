@@ -1,1 +1,0 @@
-# QuadB_webdev_task
